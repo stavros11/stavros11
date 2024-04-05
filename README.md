@@ -35,7 +35,8 @@ Below is a summary of my current and past job roles, as well as my education, in
 
   I was the first Quantum Resident in a team focusing on various challenges related to quantum technologies. The team later graduated to [SandboxAQ](https://www.sandboxaq.com/).
   
-  I contributed to the open source software [google/TensorNetwork](https://github.com/google/TensorNetwork) and performed simulations of quantum kernel methods for the classification of cosmology datasets, 
+  I contributed to the open source software [google/TensorNetwork](https://github.com/google/TensorNetwork) and wrote a [tutorial for a related machine learning application](https://arxiv.org/abs/1906.06329).
+  I also performed simulations of quantum kernel methods for the classification of cosmology datasets, 
   a method that was later deployed on Google's Sycamore quantum computer and published in [npj Quantum Information journal](https://www.nature.com/articles/s41534-021-00498-9).
 
 </details>
