@@ -6,7 +6,7 @@
 
 I am Stavros, a physicist working on quantum computing simulation, hardware control and calibration.
 
-Below is a summary of my current and past job roles, as well as my education, including a few more details than my resume.
+Below is a summary of my current and past job roles, as well as my education, including a few more details than my resume, which can be found [here](https://github.com/stavros11/stavros11/blob/main/resume.pdf).
 
 <details>
   <summary><b>:microscope: Experience</b></summary>
@@ -35,7 +35,8 @@ Below is a summary of my current and past job roles, as well as my education, in
 
   I was the first Quantum Resident in a team focusing on various challenges related to quantum technologies. The team later graduated to [SandboxAQ](https://www.sandboxaq.com/).
   
-  I contributed to the open source software [google/TensorNetwork](https://github.com/google/TensorNetwork) and wrote a [tutorial for a related machine learning application](https://arxiv.org/abs/1906.06329).
+  I contributed to the open source software [google/TensorNetwork](https://github.com/google/TensorNetwork) and wrote a [tutorial for a related machine learning application](https://arxiv.org/abs/1906.06329). I received a Google Peer Bonus award from the core developer of the project for my contributions.
+
   I also performed simulations of quantum kernel methods for the classification of cosmology datasets, 
   a method that was later deployed on Google's Sycamore quantum computer and published in [npj Quantum Information journal](https://www.nature.com/articles/s41534-021-00498-9).
 
@@ -99,5 +100,5 @@ Below is a summary of my current and past job roles, as well as my education, in
 
 <a href="https://arxiv.org/abs/0903.2030"><img src="https://github.com/stavros11/stavros11/blob/main/assets/crossing.png" height="180" /></a>
 <br>
-*An avoided crossing resulting from an interaction of two flux tunable superconducting qubits, <br> typically used to [implement two-qubit gates](https://arxiv.org/abs/0903.2030).
+*Avoided crossing resulting from interaction of two flux tunable superconducting qubits, <br> typically used to [implement two-qubit gates](https://arxiv.org/abs/0903.2030).
 The plot was generated using real data.*
