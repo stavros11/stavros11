@@ -62,3 +62,8 @@ Below is a summary of my current and previous job roles and my education, includ
   I graduated second in my class with average grade 9.68 (out of 10).
   
 </details>
+
+
+<img src="https://github.com/stavros11/stavros11/blob/main/assets/crossing.png" height="70" />
+
+Here is an avoided crossing resulting from an interaction of two flux tunable superconducting qubits, typically used to [implement a two-qubit gates](https://arxiv.org/abs/0903.2030).
