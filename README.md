@@ -45,6 +45,15 @@ Below is a summary of my current and past job roles, as well as my education, in
 
   ## Education
 
+  ### :school: (Sep. 2018 - Dec. 2019) Doctoral Student, [Max Planck Institute of Quantum Optics](https://www.mpq.mpg.de/en), Munich&nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png" width="30">
+
+  *PhD was not completed*
+
+  I started a PhD in the [theory group](https://www.mpq.mpg.de/6497359/theory-homepage) of the MPI of Quantum Optics, supervised by [Ignacio Cirac](https://www.webofscience.com/wos/author/record/1603185). The topic was machine learning methods and other variational approaches for efficient simulation of quantum many-body systems. In particular, I was working on a method for unitary time evolution based on optimization of a [*Clock Hamiltonian*](https://www.pnas.org/doi/full/10.1073/pnas.1308069110).
+
+  After an internship in industry, I decided to leave my PhD in order to pursue a more practical career outside research (however I still ended up working in physics...). The main reason I prefer the industrial setup over academia is that goals are more well defined making it easier to track progress, in contrast to research which is generally more abstract.
+  Thankfully, my PhD supervisor was very supportive of that decision. :pray:
+
   ### :school: (Aug. 2017 - June 2018) MSc in Physics, [Perimeter Institute](https://perimeterinstitute.ca/), Waterloo, ON&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/180px-Flag_of_Canada_%28Pantone%29.svg.png" width="30">
 
   <a href="https://perimeterinstitute.ca/"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/pi.png" height="50" alt="PI" /></a>&nbsp; &nbsp;
