@@ -47,6 +47,8 @@ Below is a summary of my current and past job roles, as well as my education, in
 
   ### :school: (Sep. 2018 - Dec. 2019) Doctoral Student, [Max Planck Institute of Quantum Optics](https://www.mpq.mpg.de/en), Munich&nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png" width="30">
 
+  <a href="https://www.mpg.de/en"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/mpi.png" height="100" alt="MPI" /></a>
+
   *PhD was not completed*
 
   I started a PhD in the [theory group](https://www.mpq.mpg.de/6497359/theory-homepage) of the MPI of Quantum Optics, supervised by [Ignacio Cirac](https://www.webofscience.com/wos/author/record/1603185). The topic was machine learning methods and other variational approaches for efficient simulation of quantum many-body systems. In particular, I was working on a method for unitary time evolution based on optimization of a [*Clock Hamiltonian*](https://www.pnas.org/doi/full/10.1073/pnas.1308069110).
