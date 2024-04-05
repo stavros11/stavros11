@@ -13,9 +13,12 @@ I'm Stavros, a physicist working on quantum computing simulation, hardware contr
 
   ## Experience
 
-  Here is a summary of my current and previous job roles (with a few more details than my resume).
+  Here is a summary of my current and previous job roles, including a few more details than my resume.
 
   ### :office: (Feb. 2020 - today) Researcher (Software Developer) at [TII](https://www.tii.ae/), Abu Dhabi&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/180px-Flag_of_the_United_Arab_Emirates.svg.png" width="30">
+
+  <a href="https://www.tii.ae/"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/tii.png" height="80" alt="TII" /></a>&nbsp;&nbsp;
+  <a href="https://www.tii.ae/quantum"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/qrc.png" height="80" alt="QRC" /></a>
 
   I am one of the core developers of the open source quantum computing Python framework [Qibo](https://github.com/qiboteam/qibo).
   
@@ -29,6 +32,8 @@ I'm Stavros, a physicist working on quantum computing simulation, hardware contr
   This suite was used to compare various commercial electronics and FPGA boards used for qubit control, leading to another [publication in Quantum](https://quantum-journal.org/papers/q-2024-02-12-1247/).
 
   ### :office: (March 2019 - June 2019) Quantum Resident at [(Alphabet) X](https://x.company/), Mountain View, CA&nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/180px-Flag_of_the_United_States.svg.png" width="30">
+
+  <a href="https://www.sandboxaq.com/"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/sandboxaq.png" height="80" alt="SandboxAQ" /></a>
 
   I was the first Quantum Resident in a team focusing on various challenges related to quantum technologies. The team later graduated to [SandboxAQ](https://www.sandboxaq.com/).
   
@@ -44,5 +49,12 @@ I'm Stavros, a physicist working on quantum computing simulation, hardware contr
 
   ### :school: (Aug. 2017 - June 2018) MSc in Physics, [Perimeter Institute](https://perimeterinstitute.ca/), Waterloo, ON&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/180px-Flag_of_Canada_%28Pantone%29.svg.png" width="30">
 
+  <a href="https://perimeterinstitute.ca/"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/pi.png" height="50" alt="PI" /></a>&nbsp; &nbsp;
+  <a href="https://perimeterinstitute.ca/psi-masters-program"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/psi.png" height="80" alt="PSI" /></a>&nbsp; &nbsp;
+  <a href="https://uwaterloo.ca/"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/uw.png" height="80" alt="UW" /></a>
+
   ### :school: (Sep. 2013 - June 2017) BSc in Physics, [University of Athens](https://en.uoa.gr/), Athens&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/150px-Flag_of_Greece.svg.png" width="30">
+
+  <a href="https://en.uoa.gr/"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/uoa.png" height="70" alt="UoA" /></a>
+  
 </details>
