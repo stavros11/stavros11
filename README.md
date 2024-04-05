@@ -1,19 +1,17 @@
-# Hi, I'm Stavros
-
-Thank you for visiting my GitHub page!
-
-I'm Stavros, a physicist working on quantum computing simulation, hardware control and calibration.
+# Thank you for visiting my GitHub page!
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="30">](https://www.linkedin.com/in/stavrosefthymiou/) &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="30">](https://scholar.google.com/citations?hl=en&user=l2aWJgQAAAAJ) &nbsp;
 [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30">](mailto:stavrosefthm@gmail.com)
 
+I am Stavros, a physicist working on quantum computing simulation, hardware control and calibration.
+
+Below is a summary of my current and previous job roles and my education, including a few more details than my resume.
+
 <details>
   <summary><b>:microscope: Experience</b></summary>
 
   ## Experience
-
-  Here is a summary of my current and previous job roles, including a few more details than my resume.
 
   ### :office: (Feb. 2020 - today) Researcher (Software Developer) at [TII](https://www.tii.ae/), Abu Dhabi&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/180px-Flag_of_the_United_Arab_Emirates.svg.png" width="30">
 
@@ -53,8 +51,14 @@ I'm Stavros, a physicist working on quantum computing simulation, hardware contr
   <a href="https://perimeterinstitute.ca/psi-masters-program"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/psi.png" height="80" alt="PSI" /></a>&nbsp; &nbsp;
   <a href="https://uwaterloo.ca/"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/uw.png" height="80" alt="UW" /></a>
 
+  I was one of the 30 students to attend [Perimeter Scholars International](https://perimeterinstitute.ca/psi-masters-program), a fully funded bootcamp in theoretical physics hosted at [Perimeter Institute](https://perimeterinstitute.ca/), leading to a MSc in Physics awarded by the nearby [University of Waterloo](https://uwaterloo.ca/).
+
+  For my final project, I worked on the super-resolution of classical Ising configurations using convolutional neural networks (CNNs). CNNs were trained to increase the size of classical spin configurations sampled using Markov chain Monte Carlo and the method was used to extract critical exponents in good agreement with theory. The work was published in [Phys. Rev. B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.075113).
+
   ### :school: (Sep. 2013 - June 2017) BSc in Physics, [University of Athens](https://en.uoa.gr/), Athens&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/150px-Flag_of_Greece.svg.png" width="30">
 
   <a href="https://en.uoa.gr/"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/uoa.png" height="70" alt="UoA" /></a>
+
+  I graduated second in my class with average grade 9.68 (out of 10).
   
 </details>
