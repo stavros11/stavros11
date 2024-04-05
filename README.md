@@ -21,13 +21,13 @@ Below is a summary of my current and past job roles, as well as my education, in
   I am one of the core developers of the open source quantum computing Python framework [Qibo](https://github.com/qiboteam/qibo).
   
   We started developing a high-performance state vector quantum circuit simulation for different classical hardware platforms (multi-threading CPU, GPU, multi-GPU) using [TensoFlow custom operators](https://github.com/qiboteam/qibotf).
-  Performance benchmarks and an overview of the library's features were [published in the Quantum Science and Technology journal](https://iopscience.iop.org/article/10.1088/2058-9565/ac39f5).
+  Performance benchmarks and an overview of the library's features were published in the [Quantum Science and Technology journal](https://iopscience.iop.org/article/10.1088/2058-9565/ac39f5).
   Later we re-implemented similar operators using the [just-in-time compilation](https://github.com/qiboteam/qibojit) features of [numba](https://numba.pydata.org/) and [cupy](https://cupy.dev/).
-  Benchmarks of this new approach were [published in the Quantum journal](https://quantum-journal.org/papers/q-2022-09-22-814/).
+  Benchmarks of this new approach were published in the [Quantum journal](https://quantum-journal.org/papers/q-2022-09-22-814/).
 
   Later, we started developing [Qibolab](https://github.com/qiboteam/qibolab) a backend for deploying circuits on self-hosted quantum hardware (mainly superconducting quantum chips) and 
   [Qibocal](https://github.com/qiboteam/qibocal) a tool for easy deployment and reporting of calibration and characterization experiments.
-  This suite was used to compare various commercial electronics and FPGA boards used for qubit control, leading to another [publication in Quantum](https://quantum-journal.org/papers/q-2024-02-12-1247/).
+  This suite was used to compare various commercial electronics and FPGA boards used for qubit control, leading to another publication in [Quantum](https://quantum-journal.org/papers/q-2024-02-12-1247/).
 
   ### :office: (March 2019 - June 2019) Quantum Resident at [(Alphabet) X](https://x.company/), Mountain View, CA&nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/180px-Flag_of_the_United_States.svg.png" width="30">
 
