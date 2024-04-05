@@ -6,7 +6,7 @@
 
 I am Stavros, a physicist working on quantum computing simulation, hardware control and calibration.
 
-Below is a summary of my current and previous job roles and my education, including a few more details than my resume.
+Below is a summary of my current and past job roles, as well as my education, including a few more details than my resume.
 
 <details>
   <summary><b>:microscope: Experience</b></summary>
