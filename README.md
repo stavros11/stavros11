@@ -84,11 +84,13 @@ Below is a summary of my current and past job roles, as well as my education, in
 
   My decision to study physics was greatly influenced by my partitipation in math and physics competitions during high school.
 
-  In particular, I won a bronze medal in the [43rd International Physics Olympiad](https://ipho2013.dk/) held in Copenhagen, Denmark in July 2013. I was also the first Greek student to participate in two International Physics Olympiads, as I had also participated in the [42nd one](https://www.ipho2012.ee/home/) held in Tallin and Tartu, Estonia, one year earlier in 2012.
+  In particular, I won a [bronze medal](https://ipho-unofficial.org/timeline/2013/individual) in the [44th International Physics Olympiad](https://ipho2013.dk/) held in Copenhagen, Denmark in July 2013. I was also the first Greek student to participate in two International Physics Olympiads, as I had also participated in the [43rd one](https://www.ipho2012.ee/home/) held in Tallin and Tartu, Estonia, one year earlier in 2012.
 
   Participating in these olympiads required competing in [two qualifying rounds](http://micro-kosmos.uoa.gr/gr/announcments/diagonismoi_fysikis.htm) held at the national level, in which I was ranked 1st nationwide in 2013 and 6th in 2012.
 
   I also took part in several math competitions organized by the [Hellenic Mathematical Society](http://www.hms.gr/) and qualified (after passing two rounds) four times to the National Mathematical Olympiad, but unfortunately never managed to go beyond that.
+
+  <a href="https://ipho-unofficial.org/timeline/2013/individual"> <img src="https://github.com/stavros11/stavros11/blob/main/assets/medal.jpg" height="200" alt="medal" /></a>
 
 </details>
 
