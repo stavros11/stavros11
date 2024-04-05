@@ -63,6 +63,8 @@ Below is a summary of my current and past job roles, as well as my education, in
   
 </details>
 
+#
+
 <a href="https://arxiv.org/abs/0903.2030"><img src="https://github.com/stavros11/stavros11/blob/main/assets/crossing.png" height="180" /></a>
 <br>
 *An avoided crossing resulting from an interaction of two flux tunable superconducting qubits, <br> typically used to [implement two-qubit gates](https://arxiv.org/abs/0903.2030).
