@@ -6,7 +6,7 @@
 
 I am Stavros, a physicist working on quantum computing simulation, hardware control and calibration.
 
-Below is a summary of my current and past job roles, as well as my education, including a few more details<br> than my resume, which can be found [here](https://github.com/stavros11/stavros11/blob/main/resume.pdf).
+Below is a summary of my experience and education, including more details than my resume.
 
 <details>
   <summary><b>:microscope: Experience</b></summary>
@@ -37,7 +37,7 @@ Below is a summary of my current and past job roles, as well as my education, in
   
   I contributed to the open source software [google/TensorNetwork](https://github.com/google/TensorNetwork) and wrote a [tutorial for a related machine learning application](https://arxiv.org/abs/1906.06329). I received a Google Peer Bonus award from the core developer of the project for my contributions.
 
-  I also performed simulations of quantum kernel methods for the classification of cosmology datasets, 
+  I also performed simulations of [quantum kernel methods](https://www.nature.com/articles/s41586-019-0980-2) for the classification of cosmology datasets, 
   a method that was later deployed on Google's Sycamore quantum computer and published in [npj Quantum Information journal](https://www.nature.com/articles/s41534-021-00498-9).
 
 </details>
@@ -55,8 +55,9 @@ Below is a summary of my current and past job roles, as well as my education, in
 
   I started a PhD in the [theory group](https://www.mpq.mpg.de/6497359/theory-homepage) of the MPI of Quantum Optics, supervised by [Ignacio Cirac](https://www.webofscience.com/wos/author/record/1603185). The topic was machine learning methods and other variational approaches for efficient simulation of quantum many-body systems. In particular, I was working on a method for unitary time evolution based on optimization of a [*Clock Hamiltonian*](https://www.pnas.org/doi/full/10.1073/pnas.1308069110).
 
-  After an internship in industry, I decided to leave my PhD in order to pursue a more practical career outside research (however I still ended up working in physics...). The main reason I prefer the industrial setup over academia is that goals are more well defined making it easier to track progress, in contrast to research which is generally more abstract.
-  Thankfully, my PhD supervisor was very supportive of that decision. :pray:
+  After an internship in industry, I decided to leave my PhD in order to pursue a more practical career outside research (however I still ended up working in physics...).
+  I prefer working in industry over academia because goals are better defined, deadlines are stricter and it is generally easier to track progress, in contrast to research which is usually more abstract and open-ended.
+  Thankfully, my PhD supervisor was very supportive of my decision to leave my PhD. :pray:
 
   ### :school: (Aug. 2017 - June 2018) MSc in Physics, [Perimeter Institute](https://perimeterinstitute.ca/), Waterloo, ON&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/180px-Flag_of_Canada_%28Pantone%29.svg.png" width="30">
 
@@ -86,7 +87,7 @@ Below is a summary of my current and past job roles, as well as my education, in
 
   My decision to study physics was greatly influenced by my partitipation in math and physics competitions during high school.
 
-  In particular, I won a [bronze medal](https://ipho-unofficial.org/timeline/2013/individual) in the [44th International Physics Olympiad](https://ipho2013.dk/) held in Copenhagen, Denmark in July 2013. I was also the first Greek student to participate in two International Physics Olympiads, as I had also participated in the [43rd one](https://www.ipho2012.ee/home/) held in Tallin and Tartu, Estonia, one year earlier in 2012.
+  In particular, I won a [bronze medal](https://ipho-unofficial.org/timeline/2013/individual) in the [44th International Physics Olympiad](https://ipho2013.dk/) held in Copenhagen, Denmark in July 2013. I was also the first Greek student to participate in two International Physics Olympiads, as I had also participated in the [43rd one](https://www.ipho2012.ee/home/) held in Tallinn and Tartu, Estonia, one year earlier in 2012.
 
   Participating in these olympiads required competing in [two qualifying rounds](http://micro-kosmos.uoa.gr/gr/announcments/diagonismoi_fysikis.htm) held at the national level, in which I was ranked 1st nationwide in 2013 and 6th in 2012.
 
